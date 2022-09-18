@@ -4,7 +4,7 @@ version: 1.0.0
 repository: https://github.com/hukusuke1007/flamingo
 
 environment:
-  sdk: '>=2.18.0 <3.0.0'
+  sdk: ">=2.18.0 <3.0.0"
 
 dependencies:
   analyzer: ^5.2.0
